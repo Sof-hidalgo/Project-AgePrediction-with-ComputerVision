@@ -8,6 +8,18 @@ Desarrollo de un modelo de visión por computadora para estimar la edad de los c
 ### 🎯 Objetivo del proyecto:
 Construir y evaluar un modelo de aprendizaje profundo capaz de predecir con precisión la edad de los clientes a partir de imágenes, utilizando redes neuronales convolucionales (CNN).
 
+### Pasos del proyecto
+- **Análisis exploratorio de datos:**
+  - Observar el tamaño del conjunto de datos.
+  - Explorar la distribución de edad en el conjunto de datos.
+  - Imprimir de 10 a 15 fotos para diferentes edades en la pantalla para obtener una impresión general del conjunto de datos.
+  - Rutas a los archivos para el análisis:
+    - `'labels.csv'`
+    - `'final_files/'` 
+- **Crear funciones para la carga de datos, la creación del modelo, y prueba del mismo**
+
+-------
+
 ## 🔍 Conclusiones finales:
 - Se entrenó un modelo basado en ResNet50 con una capa densa final para regresión.
 - Se utilizó ReLU como función de activación en la salida, dado que el problema es de regresión.
