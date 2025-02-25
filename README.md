@@ -3,7 +3,7 @@
 # 📌 Good Seed - Predicción de Edad a partir de Imágenes
 
 ### 📝 Descripción del proyecto:
-Desarrollo de un modelo de visión por computadora para estimar la edad de los clientes a partir de imágenes captadas en supermercados. Este sistema ayudaría a garantizar el cumplimiento de las regulaciones de venta de alcohol.
+Desarrollo de un modelo de visión artificial para estimar la edad de los clientes a partir de imágenes captadas en supermercados. Este sistema ayudaría a garantizar el cumplimiento de las regulaciones de venta de alcohol.
 
 ### 🎯 Objetivo del proyecto:
 Construir y evaluar un modelo de aprendizaje profundo capaz de predecir con precisión la edad de los clientes a partir de imágenes, utilizando redes neuronales convolucionales (CNN).
